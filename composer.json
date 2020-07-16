@@ -1,5 +1,5 @@
 {
-  "name": "ipalaus/oauth2-client-spotify",
+  "name": "ipalaus/oauth2-spotify",
   "description": "Spotify OAuth 2.0 Client Provider for The PHP League OAuth2-Client",
   "license": "MIT",
   "authors": [
